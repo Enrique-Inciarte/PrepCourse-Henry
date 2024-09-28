@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Para el precurso de henry mod2
+Creando un proyecto github y hacerlo local en mi pc
